@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
+- Solution URL: [github repo](https://github.com/Nabster2010/ecommerce-product-page)
 - Live Site URL: [live site]()
 
 ### Built with
