@@ -10,7 +10,7 @@ const ProductPage = () => {
   const { addToCart } = useCart();
   const [qty, setQty] = useState(1);
   const [lightBoxOpen, setLightBoxOpen] = useState(false);
-  const openLightBox = () => setLightBoxOpen(false);
+  const openLightBox = () => setLightBoxOpen(true);
   const closeLightBox = () => setLightBoxOpen(false);
   const increment = () => {
     if (qty === products[0].stock) return;
